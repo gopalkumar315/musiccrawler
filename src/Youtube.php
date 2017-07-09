@@ -6,7 +6,7 @@ class Youtube implements MusicServiceHandler
 {
     private $url = 'https://www.googleapis.com/youtube/v3/activities';
 
-    private $key = 'AIzaSyCuIMHL9lvu4iuc6R5hphD4kK2uH6_NHR4';
+    private $key = 'enter key';
 
     private $ChannelId;
 
