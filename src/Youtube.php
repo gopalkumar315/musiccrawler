@@ -1,6 +1,6 @@
-<?php namespace Music;
+<?php namespace MusicCrawler;
 
-use Music\MusicServiceHandler;
+use MusicCrawler\MusicServiceHandler;
 
 class Youtube implements MusicServiceHandler
 {

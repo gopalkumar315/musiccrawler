@@ -1,4 +1,4 @@
-<?php namespace Music;
+<?php namespace MusicCrawler;
 
 interface MusicServiceHandler {
     public function getList();

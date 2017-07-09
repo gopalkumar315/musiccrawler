@@ -1,6 +1,6 @@
 <?php
 
-namespace Music;
+namespace MusicCrawler;
 class Curl
 {
 

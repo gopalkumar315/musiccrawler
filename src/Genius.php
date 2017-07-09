@@ -1,8 +1,8 @@
 <?php namespace Music;
 
-use Music\MusicServiceHandler;
+use MusicCrawler\MusicServiceHandler;
 use Symfony\Component\DomCrawler\Crawler;
-use Music\Curl;
+use MusicCrawler\Curl;
 
 /**
  * Class Djjohal

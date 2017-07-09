@@ -6,10 +6,10 @@
  * Time: 11:25 AM
  */
 
-namespace Music;
-use Music\MusicServiceHandler;
+namespace MusicCrawler;
+use MusicCrawler\MusicServiceHandler;
 use Symfony\Component\DomCrawler\Crawler;
-use Music\Curl;
+use MusicCrawler\Curl;
 
 /**
  * Class Djjohal
