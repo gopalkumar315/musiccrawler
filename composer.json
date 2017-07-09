@@ -1,0 +1,21 @@
+{
+  "name": "music/crawler",
+  "version": "1.0",
+  "description": "A punjabi, hindi or youtube channel videos crawler",
+  "authors": [
+    {
+      "name": "Gopal Kumar",
+      "email": "gopalkumar315@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Music\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/dom-crawler": "^3.3",
+    "symfony/css-selector": "^3.3",
+    "symfony/polyfill-mbstring": "^1.4"
+  }
+}
