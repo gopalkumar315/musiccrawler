@@ -1,4 +1,4 @@
-<?php namespace Music;
+<?php namespace MusicCrawler;
 
 use MusicCrawler\MusicServiceHandler;
 use Symfony\Component\DomCrawler\Crawler;
